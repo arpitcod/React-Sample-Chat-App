@@ -1,0 +1,10 @@
+.user-message {
+    background-color: #d1f7c4;
+    text-align: right;
+  }
+  
+  .bot-message {
+    background-color: #f0f0f0;
+    text-align: left;
+  }
+  
